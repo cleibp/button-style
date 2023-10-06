@@ -25,7 +25,7 @@ Exemplificação de Button
 ```sh
 .
 ├── README.md
-└── index.html
+├── index.html
 └── style.css
 ```
 
